@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "708536206110",
+    "project_id": "projeto-firebase-29d79",
+    "storage_bucket": "projeto-firebase-29d79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708536206110:android:b71f9399bd48a06945bf0f",
+        "android_client_info": {
+          "package_name": "br.com.avmobile.av2firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708536206110-agti71hegm0ri0q7609q8u7i9a4q3i5c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8iVmfExvWWfN5FGJIIfr6ZN9eRemJcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708536206110-agti71hegm0ri0q7609q8u7i9a4q3i5c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
